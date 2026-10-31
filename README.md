@@ -1,16 +1,73 @@
-# React + Vite
+# 🌦️ SkyCast – Weather Forecast App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SkyCast is a responsive weather forecasting web application built using React. It allows users to search for different cities and view real-time weather conditions along with a 5-day weather forecast.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://syntecxhub-weather-app-delta.vercel.app
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Search weather by city name.
+* Display current temperature.
+* View humidity and wind speed.
+* Display weather conditions with dynamic icons.
+* 5-day weather forecast.
+* Loading and error handling.
+* Responsive user interface.
+* Real-time weather data using Open-Meteo API.
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js
+* JavaScript
+* HTML5
+* CSS3
+* Open-Meteo Weather API
+* Vite
+
+## 📂 Installation and Setup
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/haniya-sabrin/Syntecxhub_Weather_App.git
+   ```
+
+2. Navigate to the project folder:
+
+   ```bash
+   cd Syntecxhub_Weather_App
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL displayed in your terminal.
+
+## 🌐 API Used
+
+Open-Meteo Weather API
+
+https://open-meteo.com/
+
+## 👩‍💻 Developer
+
+Haniya Sabrin A
+
+B.Tech Information Technology
+
+Jerusalem College of Engineering
+
+## 📌 Internship
+
+Developed as part of the Web Development Internship at Syntecxhub.
